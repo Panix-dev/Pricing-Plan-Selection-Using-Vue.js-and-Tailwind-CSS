@@ -16,7 +16,7 @@ By combining the capabilities of a Javascript framework like Vue.js we can achie
 
 - [Tailwind CSS](#laravel-livewire)
 - [App.vue](#appvue)
-- [SelectablePlan.vue](#pelectableplanvue)
+- [SelectablePlan.vue](#selectableplanvue)
 - [Contact Details](#contact-details)
 - [Inspiration](#inspiration)
 
